@@ -1,0 +1,1 @@
+ALTER TABLE Customer RENAME COLUMN first_name TO firstname;
